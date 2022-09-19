@@ -1,0 +1,12 @@
+{
+    "K": 6,
+    "M": 3,
+    "N": 1,
+    "alpha": 0.4,
+    "data_type": "personalizedsynthetic",
+    "beta_type": "heuristic",
+    "collabbeta_type": "heuristic",
+    "exploration_type": "explog",
+    "niter": 100,
+    "delta": 0.1
+}
